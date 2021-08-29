@@ -17,7 +17,10 @@
 ## Outras habilidades
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="ionic" width="40" height="40" style="max-width:100%;"></img>
   
+  <a href="https://github.com/gustacoutinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustacoutinho&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustacoutinho&layout=compact&langs_count=7&theme=github_dark"/>
+
  <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
