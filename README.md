@@ -1,9 +1,9 @@
 ## Gustavo Coutinho
-- I live in :brazil: 
+- Moro no Brasil :brazil: 
 - Sou estudante de Análise e Desenvolvimento de Sistemas na UFMS :computer:
 - Tenho focado meus estudos em desenvolvimento web :globe_with_meridians:
 
-## My Skills 
+## Minhas habilidades
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="45" height="45" style="max-width:100%;"></img>
   <img src="https://cdn.icon-icons.com/icons2/3207/PNG/512/js_node_icon_196124.png" alt="nodejs" width="45" height="45" style="max-width:100%;"></img>
   <img src="https://inceptum-stor.icons8.com/nsXU9vdDeosO/13810373.png" alt="nodejs" width="45" height="45" style="max-width:100%;"></img>
@@ -14,17 +14,11 @@
   
   
 ## Entre em contato por:
+
+<div align="center"> 
   <a href="https://instagram.com/gucoutiinho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "gustavocoutiinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gucoutiinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
   
-## Outras habilidades
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="ionic" width="40" height="40" style="max-width:100%;"></img>
-  
-  <a href="https://github.com/gustacoutinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustacoutinho&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustacoutinho&layout=compact&langs_count=7&theme=github_dark"/>
-
- <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
- 
+![Hand coding (1)](https://user-images.githubusercontent.com/67559431/159193431-88c43dac-b91d-4f18-bd31-7a5a91d95398.gif)
 </div>
