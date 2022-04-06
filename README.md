@@ -10,7 +10,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" style="max-width:100%;"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" style="max-width:100%;"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="45" height="45" style="max-width:100%;"></img>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="45" height="45" style="max-width:100%;"></img>  
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="45" height="45" style="max-width:100%;"></img>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cakephp_icon_130704.png" alt="react" width="45" height="45" style="max-width:100%;"></img>  
+
   
   
 ## Entre em contato por:
