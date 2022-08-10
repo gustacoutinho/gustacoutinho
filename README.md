@@ -1,6 +1,6 @@
 ## Gustavo Coutinho
 - Moro no Brasil :brazil: 
-- Estudante de Análise e Desenvolvimento de Sistemas na UFMS :computer:
+- Graduado em Análise e Desenvolvimento de Sistemas na UFMS :computer:
 - Estudos focados em desenvolvimento web :globe_with_meridians:
 
 ## Minhas habilidades
