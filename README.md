@@ -1,7 +1,7 @@
 ## Gustavo Coutinho
 - Moro no Brasil :brazil: 
 - Graduado em Análise e Desenvolvimento de Sistemas na UFMS :computer:
-- Estudos focados em desenvolvimento web :globe_with_meridians:
+- A tecnologia move o mundo :globe_with_meridians:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
